@@ -9,7 +9,7 @@ Changes from ATM 9:
 
 Installation:
 1. Download the modpack (ONLY MODS ARE INCLUDED) from the release tab
-2. Download ATM 9 if you haven't already
+2. Download ATM 9 if you haven't already (CurseForge import)
 3. Import the modpack into your launcher
 4. Copy over all of the ATM 9 files into the NoBoredom folder EXCEPT "mods"
 
