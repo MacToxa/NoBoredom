@@ -1,26 +1,7 @@
-# NoBoredom (ATM 9)
-A modified modlist of ATM 9 to include more features
+# NoBoredom (ATM 10)
+A modified modlist of ATM 10 to include more features
 
-Changes from ATM 9:
-- Ad Astra addons
-  - More space content
-- ISS (Iron's Spells & Spellbooks) addons
-  - About twice as many spells and 2 new classes
-- Relics + addons (overriding Artifacts)
-  - Completely reworked accessories for the better
-- Alex's Mobs + Caves
-- Chloride
-  - More features for Embeddium
-- CWB (Cubes Without Borders)
-  - Borderless mode
-- Aether addons
-  - More variety in the Aether
-- Cataclysm addons
-  - More interactions with other mods
-- Apotheosis addons
-  - A lot of new gems based on other mods
-- Better Combat
-  - Combat from MC Dungeons
+Changes from ATM 10:
 
 Installation:
 1. Download the modpack (ONLY MODS ARE INCLUDED) from the release tab
